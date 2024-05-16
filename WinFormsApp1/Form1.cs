@@ -110,7 +110,7 @@ namespace WinFormsApp1
                 listBox1.Items.Add("Data 2: " + user.data2.ToString("dd.MM.yyyy"));
                 listBox1.Items.Add("Podpis 2: " + user.podpis2);
                 listBox1.Items.Add("*************************************");
-                listBox1.Items.Add(""); // Dodaj pust¹ liniê po ka¿dym u¿ytkowniku
+                listBox1.Items.Add(""); 
             }
         }
     }
